@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T130
 ### Team Details
-#### **Team Name** <<BLACK BULLS>> <br/>
+#### **BLACK BULLS** <<BLACK BULLS>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
