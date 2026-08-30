@@ -15,7 +15,7 @@
 |    Member 2     | GaganDeep UVS           |  CB.SC.U4CSE26616      |  MALE           |      B.TECH CSE                 |  
 |    Member 3     | Pranav Vrishin          |  CB.EN.U4ECE26238      |  MALE           |       B.TECH ECE                |  
 |    Member 4     | Kavin Rithik            |  CB.SC.U4CSE26629      |  MALE           |      B.TECH CSE                 |   
-|    Member 5     | Leya Stenil             |  CB.SC.U4CSE26631      |  MALE           |     B.TECH CSE                  |  
+|    Member 5     | Leya Stenil             |  CB.SC.U4CSE26631      |  feMALE           |     B.TECH CSE                  |  
 |    Member 6     | Mahiesha                |  CB.SC.U4CSE26635      |  Female         |     B.TECH CSE                  |   
 
 #### Mentor Details
