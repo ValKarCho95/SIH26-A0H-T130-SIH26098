@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: 26043**
+* **Problem Statement Title: A digital platform to crowdsource societal challenges and facilitate collaborative problem solving through universities and industry partnerships**
+* **Theme / Category: Software**
+* **Ministry / Organization: Governmcnt of Jharkhand**, wherever applicable
